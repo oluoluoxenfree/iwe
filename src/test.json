@@ -1,0 +1,43 @@
+{
+  "id": "866bbec370f5441fabc09af0c93c1a40",
+  "text": "Grandparent note",
+  "children": [
+    {
+      "id": "def4dbcbc21d4f7f87b8f1131b8659f9",
+      "text": "parent note 1",
+      "children": [
+        {
+          "id": "94d18882a3514b71a6970892bac5f095",
+          "text": "child note 1",
+          "children": []
+        },
+        {
+          "id": "1777eee6fe1545aa8a16e23c21a822f2",
+          "text": "child note 2",
+          "children": []
+        },
+        {
+          "id": "f3071265f48d4bb6a59e069d3892cb17",
+          "text": "child note 3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "241c0e11f9204169ba1ae45a4b760ecd",
+      "text": "parent level childless note",
+      "children": []
+    },
+    {
+      "id": "5846abbf7dae4b7eab20c35a332cedf0",
+      "text": "parent note 2",
+      "children": [
+        {
+          "id": "aaf67619f4c04812a4518f780eb649e7",
+          "text": "child note 3",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
